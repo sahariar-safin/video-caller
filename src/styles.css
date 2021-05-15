@@ -1,0 +1,11 @@
+body {
+    background-image: url('./images/mona-eendra-vC8wj_Kphak-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
